@@ -1,0 +1,13 @@
+G:\BiTM_BASIS\OOPEmployeeApp\OOPEmployeeApp\bin\Debug\OOPEmployeeApp.exe.config
+C:\Users\acer\Desktop\24-12-2014\OOPEmployeeApp\OOPEmployeeApp\bin\Debug\OOPEmployeeApp.exe.config
+C:\Users\acer\Desktop\24-12-2014\OOPEmployeeApp\OOPEmployeeApp\bin\Debug\OOPEmployeeApp.exe
+C:\Users\acer\Desktop\24-12-2014\OOPEmployeeApp\OOPEmployeeApp\bin\Debug\OOPEmployeeApp.pdb
+C:\Users\acer\Desktop\24-12-2014\OOPEmployeeApp\OOPEmployeeApp\obj\Debug\OOPEmployeeApp.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\24-12-2014\OOPEmployeeApp\OOPEmployeeApp\obj\Debug\OOPEmployeeApp.Properties.Resources.resources
+C:\Users\acer\Desktop\24-12-2014\OOPEmployeeApp\OOPEmployeeApp\obj\Debug\OOPEmployeeApp.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\24-12-2014\OOPEmployeeApp\OOPEmployeeApp\obj\Debug\OOPEmployeeApp.exe
+C:\Users\acer\Desktop\24-12-2014\OOPEmployeeApp\OOPEmployeeApp\obj\Debug\OOPEmployeeApp.pdb
+C:\Users\acer\Desktop\24-12-2014\OOPEmployeeApp\OOPEmployeeApp\obj\Debug\OOPEmployeeApp.Salary.resources
+C:\Basis_OOP_C#\24-Dec-2014\24-12-2014\OOPEmployeeApp\OOPEmployeeApp\bin\Debug\OOPEmployeeApp.exe.config
+C:\Basis_OOP_C#\24-Dec-2014\24-12-2014\OOPEmployeeApp\OOPEmployeeApp\obj\Debug\OOPEmployeeApp.exe
+C:\Basis_OOP_C#\24-Dec-2014\24-12-2014\OOPEmployeeApp\OOPEmployeeApp\obj\Debug\OOPEmployeeApp.pdb
